@@ -1,0 +1,16 @@
+p {font-family: 'Arial', sans-serif;
+    /* Sets the font style */
+    font-size: 45px;
+    /* sets the font size*/
+    color: rgb(15, 198, 67);
+    /* Sets the font color*/
+    text-align: justify;
+    /* justifies tex alignment*/
+    font-weight: bold;
+    /* makes the font bold*/
+    font-style: italic;
+    /* Makes the font italic*/
+}
+nav {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 50px;
+color: ;}
