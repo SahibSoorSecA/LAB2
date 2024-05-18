@@ -29,8 +29,8 @@ margin-right: 50px;
 }
 
 .headertext { 
-    flex: 2;
-    background-color: rgb(0, 0, 0);
+  
+    background-color: blue;
     border: 1px solid #ddd;
     padding: 20px;
     margin: 10px;
@@ -38,4 +38,41 @@ margin-right: 50px;
     text-align: center;
     flex-grow: 1;
 
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    background: blue;
+
+}
+
+.navtext1 {
+    background-color: red;
+    border: 5px;
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+    text-align:center;
+    flex-grow: 1;
+}
+.navtext2 {
+    background-color: red;
+    border: 5px;
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+    text-align:center;
+    flex-grow: 1;
+}
+.navtext3 {
+    background-color: red;
+    border: 5px;
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+    text-align:center;
+    flex-grow: 1;
 }
